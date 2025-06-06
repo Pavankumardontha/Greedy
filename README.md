@@ -12,3 +12,4 @@
 11) Number of Burgers with No Waste of Ingredients
 12) Boats to Save People : Take the first and last element combination to fill the boat to the maximum capacity
 13) Car pooling
+14) Reduce array size to the half
