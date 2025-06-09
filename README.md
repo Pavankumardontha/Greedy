@@ -16,3 +16,4 @@
 15) Group the People Given the Group Size They Belong to
 16) Remove duplicate letters - IMP
 17) Smallest subsequence of distinct characters (same as above)
+18) Reorganise string 
