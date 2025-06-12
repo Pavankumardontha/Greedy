@@ -19,3 +19,4 @@
 18) Reorganise string
 19) String without AAA or BBB
 20) Divide Array in Sets of K Consecutive Numbers
+21) Partition labels
